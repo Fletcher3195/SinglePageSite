@@ -29,5 +29,5 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 Inspiration, code snippets, etc.
 * [CSS Tricks](https://css-tricks.com/almanac/)
 * [W3Schools](https://www.w3schools.com/html/)
-* [jQuery API]https://api.jquery.com/)
+* [jQuery API](https://api.jquery.com/)
 * [jQuery Tutorial](https://www.w3schools.com/jquery/)
