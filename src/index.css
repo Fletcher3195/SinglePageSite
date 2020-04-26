@@ -1,0 +1,67 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-image: url("https://www.onlygfx.com/wp-content/uploads/2015/12/simple-old-paper-1-transparent.jpg");
+}
+
+/* Nav Bar Styles */
+nav {
+    top: 40%;
+    position: fixed;
+    width: 88.5px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    background-color: #f1f1f1;
+  }
+
+li a {
+    display: block;
+    color: black;
+    padding: 8px 16px;
+}
+  
+li.active a{
+    color: white;
+    background-color: black;
+}
+  
+li:hover:not(.active) a{
+    color: white;
+    background-color: #555;
+}
+
+/* Title & Graphic Styles */
+.rose {
+    background-image: url("https://images.unsplash.com/photo-1496857239036-1fb137683000");
+    background-repeat: no-repeat;
+    background-size: 100px, 100px;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 10%;
+    top: 10%;
+}
+
+h1 {
+    color: navy;
+    position: absolute;
+    left: 25%;
+    top: 10%;
+}
+
+/* Text Styles */
+.content {
+    /* Last value is for opacity. Lower is more transparent */
+    background: rgba(204, 204, 204, 0.3);
+    position: absolute;
+    left: 12.5%;
+    top: 33%;
+    max-width: 80%;
+
+}
