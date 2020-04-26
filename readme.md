@@ -8,7 +8,7 @@ This is a simple one page website showing off some of the basics of HTML and CSS
 ### Installing
 
 * Download the files or do a git clone
-* Open webpage in the editor of your choice (I reccomend VS Code).
+* Open webpage in the editor of your choice (I recommend VS Code).
 * Open the html file in a webpage to see your changes.
 
 ## Help
